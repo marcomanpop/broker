@@ -6,9 +6,9 @@
 // $dbname = "aprobitmarket_db";
 
 $servername = "localhost:3306";
-$username = "bitpromarketprim_user";
-$password = "bitpromarketprim_user";
-$dbname = "bitpromarketprim_database";
+$username = "civihqzq_new";
+$password = "Y}.]Uw{]kehD";
+$dbname = "civihqzq_new";
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 // Check connection
