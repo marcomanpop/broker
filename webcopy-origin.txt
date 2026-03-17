@@ -1,0 +1,484 @@
+Uri: https://aprobitmarket.com/
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\index.htm
+Content Type: text/html
+
+Uri: https://aprobitmarket.com/assets/css/animate.min.css
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://aprobitmarket.com/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://aprobitmarket.com/assets/css/default.css
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\css\default.css
+Content Type: text/css
+
+Uri: https://aprobitmarket.com/assets/css/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://aprobitmarket.com/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://aprobitmarket.com/assets/css/slick.css
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://aprobitmarket.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://aprobitmarket.com/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://aprobitmarket.com/assets/img/banner/banner_shape01.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\banner\banner_shape01.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/banner/banner_shape02.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\banner\banner_shape02.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/brand/298x272_BL___FXCM.svg
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\brand\298x272_BL___FXCM.svg
+Content Type: image/svg+xml
+
+Uri: https://aprobitmarket.com/assets/img/brand/Capital_updated.svg
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\brand\Capital_updated.svg
+Content Type: image/svg+xml
+
+Uri: https://aprobitmarket.com/assets/img/brand/Easy_Markets_updated.svg
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\brand\Easy_Markets_updated.svg
+Content Type: image/svg+xml
+
+Uri: https://aprobitmarket.com/assets/img/brand/Logo_Widget_Banner_binance.svg
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\brand\Logo_Widget_Banner_binance.svg
+Content Type: image/svg+xml
+
+Uri: https://aprobitmarket.com/assets/img/brand/OKX_updated_n.svg
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\brand\OKX_updated_n.svg
+Content Type: image/svg+xml
+
+Uri: https://aprobitmarket.com/assets/img/brand/Peperstone_updated.svg
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\brand\Peperstone_updated.svg
+Content Type: image/svg+xml
+
+Uri: https://aprobitmarket.com/assets/img/favicon.svg
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://aprobitmarket.com/assets/img/images/breadcrumb_shape01.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\breadcrumb_shape01.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/breadcrumb_shape02.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\breadcrumb_shape02.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/chart_img.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\chart_img.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/contribution_shape01.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\contribution_shape01.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/contribution_shape02.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\contribution_shape02.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/download_btn01.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\download_btn01.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/download_btn02.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\download_btn02.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/download_img01.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\download_img01.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/download_img02.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\download_img02.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/download_shape01.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\download_shape01.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/download_shape02.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\download_shape02.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/features_img01.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\features_img01.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/features_img02.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\features_img02.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/features_img03.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\features_img03.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/features_img04.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\features_img04.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/features_shape01.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\features_shape01.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/features_shape02.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\features_shape02.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/features_two_img01.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\features_two_img01.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/features_two_img02.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\features_two_img02.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/features_two_img03.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\features_two_img03.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/footer_shape01.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\footer_shape01.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/footer_shape02.png
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\footer_shape02.png
+Content Type: image/png
+
+Uri: https://aprobitmarket.com/assets/img/images/title_img01.jpg
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\title_img01.jpg
+Content Type: image/jpeg
+
+Uri: https://aprobitmarket.com/assets/img/images/title_img02.jpg
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\images\title_img02.jpg
+Content Type: image/jpeg
+
+Uri: https://aprobitmarket.com/assets/img/logo/logo.svg
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\img\logo\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://aprobitmarket.com/assets/js/ajax-form.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\js\ajax-form.js
+Content Type: application/x-javascript
+
+Uri: https://aprobitmarket.com/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://aprobitmarket.com/assets/js/chart.min.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\js\chart.min.js
+Content Type: application/x-javascript
+
+Uri: https://aprobitmarket.com/assets/js/custom-chart.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\js\custom-chart.js
+Content Type: application/x-javascript
+
+Uri: https://aprobitmarket.com/assets/js/jquery.appear.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\js\jquery.appear.js
+Content Type: application/x-javascript
+
+Uri: https://aprobitmarket.com/assets/js/jquery.countdown.min.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\js\jquery.countdown.min.js
+Content Type: application/x-javascript
+
+Uri: https://aprobitmarket.com/assets/js/jquery.easing.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\js\jquery.easing.js
+Content Type: application/x-javascript
+
+Uri: https://aprobitmarket.com/assets/js/main.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://aprobitmarket.com/assets/js/slick.min.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\js\slick.min.js
+Content Type: application/x-javascript
+
+Uri: https://aprobitmarket.com/assets/js/vendor/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\js\vendor\jquery-3.6.0.min.js
+Content Type: application/x-javascript
+
+Uri: https://aprobitmarket.com/assets/js/wow.min.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\assets\js\wow.min.js
+Content Type: application/x-javascript
+
+Uri: https://aprobitmarket.com/contact.php
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\contact.php.html
+Content Type: text/html
+
+Uri: https://aprobitmarket.com/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://aprobitmarket.com/css/style.css
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\css\style.css
+Content Type: text/css
+
+Uri: https://aprobitmarket.com/css/vendors/uikit.min.css
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\css\vendors\uikit.min.css
+Content Type: text/css
+
+Uri: https://aprobitmarket.com/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://aprobitmarket.com/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://aprobitmarket.com/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://aprobitmarket.com/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://aprobitmarket.com/fonts/rubik-v9-latin-300.woff
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\fonts\rubik-v9-latin-300.woff
+Content Type: application/font-woff
+
+Uri: https://aprobitmarket.com/fonts/rubik-v9-latin-300.woff2
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\fonts\rubik-v9-latin-300.woff2
+Content Type: font/woff2
+
+Uri: https://aprobitmarket.com/fonts/rubik-v9-latin-500.woff
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\fonts\rubik-v9-latin-500.woff
+Content Type: application/font-woff
+
+Uri: https://aprobitmarket.com/fonts/rubik-v9-latin-500.woff2
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\fonts\rubik-v9-latin-500.woff2
+Content Type: font/woff2
+
+Uri: https://aprobitmarket.com/fonts/rubik-v9-latin-regular.woff
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\fonts\rubik-v9-latin-regular.woff
+Content Type: application/font-woff
+
+Uri: https://aprobitmarket.com/fonts/rubik-v9-latin-regular.woff2
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\fonts\rubik-v9-latin-regular.woff2
+Content Type: font/woff2
+
+Uri: https://aprobitmarket.com/image/favicon.svg
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\image\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://aprobitmarket.com/img/h.jpg
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\img\h.jpg
+Content Type: image/jpeg
+
+Uri: https://aprobitmarket.com/index.php
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\index.php.html
+Content Type: text/html
+
+Uri: https://aprobitmarket.com/js/vendors/indonez.min.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\js\vendors\indonez.min.js
+Content Type: application/x-javascript
+
+Uri: https://aprobitmarket.com/js/vendors/uikit.min.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\js\vendors\uikit.min.js
+Content Type: application/x-javascript
+
+Uri: https://aprobitmarket.com/plugins/jquery-3.1.1.min.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\plugins\jquery-3.1.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://aprobitmarket.com/plugins/sweetalerts/promise-polyfill.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\plugins\sweetalerts\promise-polyfill.js
+Content Type: application/x-javascript
+
+Uri: https://aprobitmarket.com/plugins/sweetalerts/sweetalert.css
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\plugins\sweetalerts\sweetalert.css
+Content Type: text/css
+
+Uri: https://aprobitmarket.com/plugins/sweetalerts/sweetalert2.min.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\plugins\sweetalerts\sweetalert2.min.js
+Content Type: application/x-javascript
+
+Uri: https://aprobitmarket.com/signin
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\signin.html
+Content Type: text/html
+
+Uri: https://aprobitmarket.com/signin.php
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\signin.php.html
+Content Type: text/html
+
+Uri: https://aprobitmarket.com/signup
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\signup.html
+Content Type: text/html
+
+Uri: https://aprobitmarket.com/vuejs/axios.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\vuejs\axios.js
+Content Type: application/x-javascript
+
+Uri: https://aprobitmarket.com/vuejs/vue.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\vuejs\vue.js
+Content Type: application/x-javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700&family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1C4E.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1C4E.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0C4E.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_907NSg.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_907NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m07NSg.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m07NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCR_Q.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCR_Q.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CR_Q.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDh_Q.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDh_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Dh_Q.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Dh_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDh_Q.ttf
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDh_Q.ttf
+Content Type: font/ttf
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-timeline.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\external-embedding\embed-widget-timeline.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/@popperjs/core@2.11.8/dist/umd/popper.js
+File Name: C:\Downloaded Web Sites\aprobitmarket.com\@popperjs\core@2.11.8\dist\umd\popper.js
+Content Type: application/javascript
+

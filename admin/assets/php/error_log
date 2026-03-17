@@ -1,0 +1,37 @@
+[16-Mar-2025 20:03:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bitpromarketprim/public_html/admin/assets/php/config/connection.php on line 13
+[20-Mar-2025 09:52:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php on line 22
+[20-Mar-2025 09:52:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php on line 22
+[20-Mar-2025 09:52:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php on line 22
+[20-Mar-2025 09:55:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php on line 22
+[20-Mar-2025 09:55:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php on line 22
+[20-Mar-2025 09:55:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php on line 22
+[20-Mar-2025 09:56:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php on line 22
+[20-Mar-2025 12:37:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php on line 22
+[20-Mar-2025 12:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bitpromarketprim/public_html/admin/assets/php/update_wallet_addresses.php on line 22

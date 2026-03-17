@@ -1,0 +1,43 @@
+/* Import custom font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+/* Toastify Custom Styles */
+.toast-success {
+    background: rgb(69, 204, 69) !important;
+    color: white !important;
+    font-family: "Poppins", sans-serif !important;
+    font-size: 14px !important;
+    font-weight: lighter !important;
+    padding: 10px 20px !important;
+    border-radius: 5px !important;
+}
+
+.toast-error {
+    background: red !important;
+    color: white !important;
+    font-family: "Poppins", sans-serif !important;
+    font-size: 14px !important;
+    font-weight: lighter !important;
+    padding: 10px 20px !important;
+    border-radius: 5px !important;
+}
+
+.toast-info {
+    background: blue !important;
+    color: white !important;
+    font-family: "Poppins", sans-serif !important;
+    font-size: 14px !important;
+    font-weight: lighter !important;
+    padding: 10px 20px !important;
+    border-radius: 5px !important;
+}
+
+.toast-warning {
+    background: orange !important;
+    color: white !important;
+    font-family: "Poppins", sans-serif !important;
+    font-size: 14px !important;
+    font-weight: lighter !important;
+    padding: 10px 20px !important;
+    border-radius: 5px !important;
+}

@@ -1,0 +1,52 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: mariadb:latest
+    container_name: broker_mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root_password_change_me
+      MYSQL_DATABASE: bitpromarketprim_database
+      MYSQL_USER: bitpromarketprim_user
+      MYSQL_PASSWORD: bitpromarketprim_user
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./bitpromarketprime.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - broker_network
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      timeout: 20s
+      retries: 10
+
+  web:
+    build: .
+    container_name: broker_web
+    environment:
+      APACHE_RUN_USER: www-data
+      APACHE_RUN_GROUP: www-data
+      APACHE_LOG_DIR: /var/log/apache2
+      APACHE_LOCK_DIR: /var/run/apache2
+      APACHE_PID_FILE: /var/run/apache2.pid
+      APACHE_RUN_DIR: /var/run/apache2
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./:/var/www/html
+    depends_on:
+      mysql:
+        condition: service_healthy
+    networks:
+      - broker_network
+    links:
+      - mysql:db
+
+volumes:
+  mysql_data:
+
+networks:
+  broker_network:
+    driver: bridge
