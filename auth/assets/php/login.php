@@ -1,6 +1,9 @@
 <?php
 session_start();
-include "../../../assets/php/connection.php";
+
+// Include database connection using unified config
+$root = dirname(dirname(dirname(dirname(__FILE__))));
+require_once $root . '/db.php';
 
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
     // Function to sanitize input
