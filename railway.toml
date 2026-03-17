@@ -1,0 +1,11 @@
+[build]
+builder = "nixpacks"
+
+[deploy]
+startCommand = "railway run apache2-foreground"
+restartPolicyType = "on_failure"
+restartPolicyMaxRetries = 5
+
+[[services]]
+name = "php-apache"
+buildCommand = "apk add --no-cache php php-apache php-mysqli php-pdo php-pdo_mysql curl && a2enmod rewrite"
