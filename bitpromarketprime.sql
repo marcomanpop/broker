@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `bitpromarketprim_database`
+-- Database: `civihqzq_new`
 --
 
 -- --------------------------------------------------------
@@ -61,7 +61,7 @@ CREATE TABLE `copy_traders` (
   `win_rate` decimal(5,2) NOT NULL,
   `profit_percent` decimal(10,2) NOT NULL,
   `created_at` timestamp NULL DEFAULT current_timestamp()
-) ;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
 -- Dumping data for table `copy_traders`
